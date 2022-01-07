@@ -103,6 +103,7 @@ article img {
 @media only screen and (max-width: 650px) {
     section {
         flex-wrap: wrap;
+        margin: 80px 0px;
     }
 
     article {
@@ -111,9 +112,5 @@ article img {
 
     a {
         margin-top: 20px;
-    }
-
-    main {
-        padding: 80px 0px;
     }
 }
