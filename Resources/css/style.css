@@ -112,4 +112,8 @@ article img {
     a {
         margin-top: 20px;
     }
+
+    main {
+        padding: 80px 0px;
+    }
 }
